@@ -1,5 +1,6 @@
 # bsc_dpdm24
 SIDS KKU Data Preparation and Data Mining 
+653020218-2 สิริญาพร รสจันทร์
 
 Grading Top25% A : B+ - D ตามเกณฑ์
 Work | Details | Scores
