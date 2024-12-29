@@ -12,3 +12,11 @@ Homework|แบ่งกลุ่ม/New|20%|
 Quiz|ถาม-ตอบในห้อง| 5%|
 GitHub|ความสวยงามและถูกต้อง| 5%|
  Total| = | 100%|
+
+
+
+LECTURE AND CODE 
+**Content** | **Colab** | **Lecture**
+--- | --- | ---
+Understanding Data | [Colab1](https://github.com/Meaiie/bsc_dpdm24/blob/main/Chapter_2_Understanding_Data.ipynb) | [Lecture1]()
+Data Preprocessing | [Colab2](https://github.com/Meaiie/bsc_dpdm24/blob/main/Chapter_3_Data_Preprocessing.ipynb) | [Lecture2]()
