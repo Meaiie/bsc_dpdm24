@@ -3,7 +3,7 @@ SIDS KKU Data Preparation and Data Mining
 653020218-2 สิริญาพร รสจันทร์
 
 Grading Top25% A : B+ - D ตามเกณฑ์
-Work | Details | Scores
+WORK | DETAILS | SCORES
 -----|-----|-----
 Midterm | data prepocessing ปฏิบัติ (เดี่ยว) | 20%|
 Final | ทฤษฎี data mining( เดี่ยว) | 20%|
@@ -15,15 +15,15 @@ GitHub|ความสวยงามและถูกต้อง| 5%|
 
 
 
-LECTURE AND CODE 
-**Content** | **Colab** | **Lecture**
+💻 LECTURE AND CODE 💻
+**CONTENT** | **COLAB** | **LECTURE**
 --- | --- | ---
 Understanding Data | [Colab1](https://github.com/Meaiie/bsc_dpdm24/blob/main/Chapter_2_Understanding_Data.ipynb) | [Lecture1]()
 Data Preprocessing | [Colab2](https://github.com/Meaiie/bsc_dpdm24/blob/main/Chapter_3_Data_Preprocessing.ipynb) | [Lecture2]()
 
 
-HOMEWORK
-**HOMEWORK** | **Link** | **REMARK**
+💼 HOMEWORK 💼
+**HOMEWORK** | **LINK** | **REMARK**
 --- | --- | ---
 HOMEWORK 1 | [Colab](https://github.com/Meaiie/bsc_dpdm24/blob/main/Data_Preprocessing.ipynb) | -
 HOMEWORK 2 | [Colab](https://github.com/Meaiie/bsc_dpdm24/blob/main/Chapter_3_Data_Preprocessing.ipynb) | Commit ผิดเป็น HW 3
