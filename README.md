@@ -74,7 +74,7 @@ Quiz 14 | - | ตอบคำถามในห้องเรียน
 📌 **Final Project** 📌\
 **Thyroid Cancer Risk Dataset** 💊💊
 **Colab** 👉 [Midterm](https://github.com/Meaiie/bsc_dpdm24/blob/main/midterm_dpdm24.ipynb)\
-**Presentation** 👉 [Canva](https://www.canva.com/design/DAGf0WRWg70/ZVH4_5qskbEY2oJcokmk9Q/edit?utm_content=DAGf0WRWg70&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)\
+**Presentation** 👉 [Canva](https://www.canva.com/design/DAGf0WRWg70/ZVH4_5qskbEY2oJcokmk9Q/edit?utm_content=DAGf0WRWg70&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 1. Data Preparation
 2. Association Rules
 3. Model Classification
