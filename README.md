@@ -16,10 +16,10 @@ GitHub|ความสวยงามและถูกต้อง| 5%|
 
 
 💻 LECTURE AND CODE 💻
-**CONTENT** | **COLAB** | **LECTURE**
+**CONTENT** | **COLAB** | **REMARK**
 --- | --- | ---
-Understanding Data | [Colab1](https://github.com/Meaiie/bsc_dpdm24/blob/main/Chapter_2_Understanding_Data.ipynb) | [Lecture1]()
-Data Preprocessing | [Colab2](https://github.com/Meaiie/bsc_dpdm24/blob/main/Chapter_3_Data_Preprocessing.ipynb) | [Lecture2]()
+Understanding Data | [Colab1](https://github.com/Meaiie/bsc_dpdm24/blob/main/Chapter_2_Understanding_Data.ipynb) |
+Data Preprocessing | [Colab2](https://github.com/Meaiie/bsc_dpdm24/blob/main/Chapter_3_Data_Preprocessing.ipynb) |
 
 
 💼 HOMEWORK 💼
