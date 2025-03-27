@@ -61,7 +61,7 @@ Quiz 14 | - | ตอบคำถามในห้องเรียน
 
 
 💻 **Midterm** 💻\
-**Colab** 👉 [Midterm](https://github.com/Meaiie/bsc_dpdm24/blob/main/midterm_dpdm24.ipynb)\
+**Colab** 👉 [Midterm](https://github.com/Meaiie/bsc_dpdm24/blob/main/midterm_dpdm24.ipynb)
 1. การเตรียมข้อมูลประกอบด้วย กำจัด outlier, แก้ missing, normalization, one-hot-encoder และ อื่นๆ ที่นักศึกษาเห็นว่าเหมาะสม
 2. จากตารางในข้อ 1 ตอบคำถามต่อไปนี้
    - zone ใดมีราคาซื้อขายบ้าน 'sell price' เฉลี่ยสูงที่สุด
@@ -72,7 +72,7 @@ Quiz 14 | - | ตอบคำถามในห้องเรียน
 
 
 📌 **Final Project** 📌\
-**Thyroid Cancer Risk Dataset** 💊💊\
+**Thyroid Cancer Risk Dataset** 💊💊
 **Colab** 👉 [Midterm](https://github.com/Meaiie/bsc_dpdm24/blob/main/midterm_dpdm24.ipynb)\
 **Presentation** 👉 [Canva](https://www.canva.com/design/DAGf0WRWg70/ZVH4_5qskbEY2oJcokmk9Q/edit?utm_content=DAGf0WRWg70&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)\
 1. Data Preparation
